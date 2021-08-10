@@ -1,1 +1,1 @@
-# Solutions to coding assignments of NPTEL courses.
+# Coding assignments of NPTEL courses.
